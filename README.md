@@ -44,10 +44,10 @@
   <table>
     <tr>
       <td>
-        <img height="180px" align="left" alt="My Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xduck7&layout=compact&theme=dark" />
+        <img height="180px" align="left" alt="My Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xduck7&layout=compact&theme=synthwave" />
       </td>
       <td>
-        <img height="180px" align="left" alt="My Github Languages" src="https://github-readme-stats.vercel.app/api?username=xduck7&show_icons=true&theme=dark" />
+        <img height="180px" align="left" alt="My Github Languages" src="https://github-readme-stats.vercel.app/api?username=xduck7&show_icons=true&theme=synthwave" />
       </td>
     </tr>
   </table>
