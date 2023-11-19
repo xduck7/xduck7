@@ -1,23 +1,23 @@
 
-# Привет👋
+# Hi there👋
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я начинающий backend разработчик на Java.
+I'm beginer backend Java developer.
 
-- 🎓 На данный момент обучаюсь на 1 курсе направления "Прикладная информатика"
+- 🎓 **At the present time I am studing at 1 course "Applied Computer Science"**
 
-- :sparkles: Параллельно изучаю **Java** и его фреймворк **Spring**🍃, а также базы данных (**PostgreSQL**)
+- :sparkles: **Also I study Java, Spring🍃 and database (PostgreSQL)**
 
 ---
-### 📞 Мои контакты
+### 📞 Contacts
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xduck7)
 - [![Discord Badge](https://img.shields.io/badge/-Discord-mediumpurple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/376762459500838912/)
 ---
 
-### 💻 Инструменты и Технологии:
+### 💻 Tools & Technologies
 
 <div>
   <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" title="intelij" alt="intelij" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@
 
 ---
 
-### 👀 Моя Статистика
+### 👀 My Statistics
 
   <table>
     <tr>
