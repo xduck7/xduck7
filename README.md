@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="win" alt="win" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 </div>
 
 <div>
