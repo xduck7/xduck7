@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I'm beginer backend Java developer.
+-  🌠 **I'm beginer backend Java developer.**
 
 - 🎓 **At the present time I am studing at 1 course "Applied Computer Science"**
 
