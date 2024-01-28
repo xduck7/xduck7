@@ -42,16 +42,7 @@
 ---
 
 ### 👀 My Statistics
-
-  <table>
-    <tr>
-      <td>
-        <img height="180px" align="left" alt="My Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xduck7&layout=compact&theme=synthwave" />
-      </td>
-      <td>
-        <img height="180px" align="left" alt="My Github Languages" src="https://github-readme-stats.vercel.app/api?username=xduck7&show_icons=true&theme=synthwave" />
-      </td>
-    </tr>
-  </table>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=false&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xduck7&layout=compact&theme=great-gatsby&width=100)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xduck7)
