@@ -42,7 +42,6 @@
 ---
 
 ### 👀 My Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=false&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xduck7&layout=compact&theme=great-gatsby&width=100)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xduck7)
