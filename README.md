@@ -9,7 +9,6 @@
 
 - 🎓 **At the present time I am studing at 1 course "Applied Computer Science"**
 
-- :sparkles: **Also I study Java, Go and database (PostgreSQL, MySQL)**
 
 ---
 ### 📞 Contacts
